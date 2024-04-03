@@ -1,5 +1,5 @@
 # Lista 1
-A lista 1 possui 2 trabalhos práticos para ser realizados e a resolução está no notebook Lista1_ML.ipynb
+A lista 1 possui 2 trabalhos práticos para ser realizados e a resolução está no notebook [Lista1_ML.ipynb](https://github.com/rikdantas/Aprendizagem-de-Maquinas/blob/main/Lista_1/Lista1_ML.ipynb)
 
 ## Trabalho 1
 Pesquise e apresente um trabalho sobre o algoritmo Naïve-Bayes para a detecção (classificação) de Spam em mensagens de email
