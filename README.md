@@ -8,5 +8,5 @@ Aluno: Paulo Ricardo Dantas
 
 | Código | Nome da matéria | 
 |------|------|
-| [DCA0133](https://github.com/rikdantas/Aprendizagem-de-Maquinas/tree/main/DCA0133) |  Aprendizagem de Máquinas e Mineração de Dados. |
-| [IMD1101](https://github.com/rikdantas/Aprendizagem-de-Maquinas/tree/main/IMD1101) | Trabalho com o objetivo de reutilizar o projeto guiado do curso Introduct to Algorithms da DataQuest, porém implementando novas funções. |
+| [DCA0133](https://github.com/rikdantas/Aprendizagem-de-Maquinas/tree/main/DCA0133) | Aprendizagem de Máquinas e Mineração de Dados |
+| [IMD1101](https://github.com/rikdantas/Aprendizagem-de-Maquinas/tree/main/IMD1101) | Aprendizado de máquina |
