@@ -1,4 +1,12 @@
-# Aprendizagem de Máquinas e Mineração de Dados
-Repositório feito com o intuito de salvar os códigos da disciplina de Aprendizagem de Máquinas e Mineração de Dados (DCA0133).
+# Aprendizagem de máquina
+Esse repositório foi feito com o intuito de salvar os projetos desenvolvidos nas matérias da área de aprendizagem de máquinas (Machine Learning).
 
-Alunos: Paulo Ricardo Dantas
+Aluno: Paulo Ricardo Dantas
+
+
+## Disciplinas
+
+| Código | Nome da matéria | 
+|------|------|
+| [DCA0133](https://github.com/rikdantas/Aprendizagem-de-Maquinas/tree/main/DCA0133) |  Aprendizagem de Máquinas e Mineração de Dados. |
+| [IMD1101](https://github.com/rikdantas/Aprendizagem-de-Maquinas/tree/main/IMD1101) | Trabalho com o objetivo de reutilizar o projeto guiado do curso Introduct to Algorithms da DataQuest, porém implementando novas funções. |
