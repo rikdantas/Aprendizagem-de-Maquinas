@@ -10,3 +10,4 @@ Aluno: Paulo Ricardo Dantas
 |------|------|
 | [DCA0133](https://github.com/rikdantas/Aprendizagem-de-Maquinas/tree/main/DCA0133) | Aprendizagem de Máquinas e Mineração de Dados |
 | [IMD1101](https://github.com/rikdantas/Aprendizagem-de-Maquinas/tree/main/IMD1101) | Aprendizado de máquina |
+| [ECT3695](https://github.com/rikdantas/Aprendizagem-de-Maquinas/tree/main/ECT3695) | Aprendizado profundo (Deep Learning) |
