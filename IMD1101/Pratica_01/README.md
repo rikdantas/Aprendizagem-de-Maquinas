@@ -19,3 +19,9 @@ Para a extração de características das referidas imagens, usando o HOG, iremo
 Por fim, os datasets resultantes vão estar disponibilizados nesse [link](https://drive.google.com/drive/folders/1iGMmBWTiGfG9Dwc78zwhgdZn3UcPc0DZ?usp=sharing).
 
 ### CNN
+Com o CNN iremos utilizar os modelos já treinados VGG16 e VGG 19 para:
+- Aplicar os modelos treinados de CNN (VGG16 e VGG19) nas 800 imagens de cada grupo, explorando os valores para pooling (‘avg’ e ‘max’), além de redefinir o tamanho de cada uma das imagens para 256 x 256 pixels e 128 x 128 pixels.
+
+Assim teremos o 4 datasets resultantes do modelo VGG16 e mais 4 datasets resultantes do model do VGG19.
+Por fim, os datasets resultantes vão estar disponibilizados nesse [link](https://drive.google.com/drive/folders/15nsvqoKkMTzFFhTh5BKXhILHIFRxbZLt?usp=drive_link).
+
