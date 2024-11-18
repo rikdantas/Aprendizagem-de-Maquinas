@@ -37,3 +37,6 @@ Com todos os datasets em mãos, agora podemos aplicar o método do k-NN. Para is
 | CNN_VGG16_128_max       | HOG_128_16x16          |
 | CNN_VGG19_128_avg       | HOG_256_20x20          |
 | CNN_VGG16_128_avg       | HOG_256_20x20          |
+
+## PCA
+Com a informação da tabela acima, iremos escolher as 6 bases com a melhor acurácia para aplicar o método do PCA e substituir as 6 piores com as bases resultantes. Após essa etapa, iremos aplicar o k-NN nas novas bases e anotar na tabela quais foram as acurácias. Essa etapa foi desenvolvida no notebook [Pratica01_PCA.ipynb](https://github.com/rikdantas/Aprendizagem-de-Maquinas/blob/main/IMD1101/Pratica_01/Pratica01_PCA.ipynb).
