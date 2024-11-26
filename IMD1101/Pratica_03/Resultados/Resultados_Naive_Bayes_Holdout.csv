@@ -1,0 +1,37 @@
+Dataset,Model,Accuracy,Error
+vgg16_1,GaussianNB,0.475,
+vgg16_1,MultinomialNB,0.48333333333333334,
+vgg16_1,ComplementNB,0.6083333333333333,
+vgg16_2,GaussianNB,0.4791666666666667,
+vgg16_2,MultinomialNB,0.6583333333333333,
+vgg16_2,ComplementNB,0.6541666666666667,
+vgg16_3,GaussianNB,0.6,
+vgg16_3,MultinomialNB,0.4791666666666667,
+vgg16_3,ComplementNB,0.4791666666666667,
+vgg19_1,GaussianNB,0.475,
+vgg19_1,MultinomialNB,0.4791666666666667,
+vgg19_1,ComplementNB,0.5333333333333333,
+vgg19_2,GaussianNB,0.475,
+vgg19_2,MultinomialNB,0.6125,
+vgg19_2,ComplementNB,0.6208333333333333,
+vgg19_3,GaussianNB,0.575,
+vgg19_3,MultinomialNB,0.4791666666666667,
+vgg19_3,ComplementNB,0.4791666666666667,
+pca_1,GaussianNB,0.6333333333333333,
+pca_1,MultinomialNB,,Negative values in data passed to MultinomialNB (input X)
+pca_1,ComplementNB,,Negative values in data passed to ComplementNB (input X)
+pca_2,GaussianNB,0.6208333333333333,
+pca_2,MultinomialNB,,Negative values in data passed to MultinomialNB (input X)
+pca_2,ComplementNB,,Negative values in data passed to ComplementNB (input X)
+pca_3,GaussianNB,0.6208333333333333,
+pca_3,MultinomialNB,,Negative values in data passed to MultinomialNB (input X)
+pca_3,ComplementNB,,Negative values in data passed to ComplementNB (input X)
+pca_4,GaussianNB,0.7208333333333333,
+pca_4,MultinomialNB,,Negative values in data passed to MultinomialNB (input X)
+pca_4,ComplementNB,,Negative values in data passed to ComplementNB (input X)
+pca_5,GaussianNB,0.6833333333333333,
+pca_5,MultinomialNB,,Negative values in data passed to MultinomialNB (input X)
+pca_5,ComplementNB,,Negative values in data passed to ComplementNB (input X)
+pca_6,GaussianNB,0.6416666666666667,
+pca_6,MultinomialNB,,Negative values in data passed to MultinomialNB (input X)
+pca_6,ComplementNB,,Negative values in data passed to ComplementNB (input X)
