@@ -34,3 +34,19 @@ Assim como pedido na prática, foi construída uma planilha para analisar melhor
 
 Com base nas médias foi possível observar uma tendência em que as configurações com o menor learning_rate foram as que apresentaram a melhor acurácia. Já analisando separadamente, a base que mostrou a maior acurácia foi a base "PCA_CNN_VGG19_128_avg" com a técnica 10-fold CV, que mostrou uma acurácia de 74,5%.
 
+## Extra
+Como etapa extra, foi desenvolvido uma análise da acurácia conforme a quantidade de neurônios na camada oculta é variada. Para isso usamos a seguinte configuração:
+
+| | Configuração|
+|-------------------------------|-----------|
+| Otimizador                    | adam      |
+| Função de ativação            | relu      | 
+| Learning rate                 | 0,001     | 
+| Iterações                     | 1500      |
+| Neurônios na camada oculta    | 2 até 10  |
+
+Como técnica de treinamento/teste foi utilizado o 10-fold CV. O gráfico resultante pode ser visto a seguir:
+
+![Grafico](Resultados/mlp_accuracy_vs_neurons.png)
+
+Nesse experimento, não foi possível observar um padrão para analisar as zonas de underfit e overfit do modelo.
