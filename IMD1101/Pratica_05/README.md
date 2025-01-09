@@ -34,5 +34,3 @@ Durante cada etapa da prática, vão sendo feitas perguntas, que serão respondi
         
 ## Planilha
 Assim como pedido na prática, foi construída uma planilha para analisar melhor a acurácia dos comitês. A planilha pode ser acessada no link a seguir: https://docs.google.com/spreadsheets/d/1Eg9LdWKYg01HcwVdr_A9IvdGRaAlodUfhahmUpIXzVc/edit?usp=sharing.
-
-Com base nas médias foi possível observar uma tendência em que as configurações com o menor learning_rate foram as que apresentaram a melhor acurácia. Já analisando separadamente, a base que mostrou a maior acurácia foi a base "PCA_CNN_VGG19_128_avg" com a técnica 10-fold CV, que mostrou uma acurácia de 74,5%.
